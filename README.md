@@ -1,2 +1,2 @@
 # Clicker
-Team work on the topic "Mouse Events"
+Team work on the topic "Mouse and keyboard Events"
